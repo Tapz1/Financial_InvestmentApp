@@ -1,0 +1,7 @@
+﻿  FinancialInvestmentApp.cpp
+  InvestmentData.cpp
+  UserDataCalculations.cpp
+C:\Users\chris\source\repos\FinancialInvestmentApp\FinancialInvestmentApp\UserDataCalculations.cpp(39,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\chris\source\repos\FinancialInvestmentApp\FinancialInvestmentApp\UserDataCalculations.cpp(85,32): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  FinancialInvestmentApp.vcxproj -> C:\Users\chris\source\repos\FinancialInvestmentApp\Debug\FinancialInvestmentApp.exe
